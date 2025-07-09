@@ -16,4 +16,4 @@ Este projeto consiste em um dashboard de segmentação de clientes com foco em a
 Abra o arquivo `.pbix` no Power BI Desktop ou visualize os prints disponíveis na pasta `imagens`.
 
 ## 🖼 Captura de Tela
-![Dashboard](e8f4ce26917d963c8fbf353e87b75a19217ce8ec)
+![Dashboard](Captura de tela 2025-07-03 114207.png)
