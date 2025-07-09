@@ -13,7 +13,7 @@ Este projeto consiste em um dashboard de segmentação de clientes com foco em a
 - Análise interativa por grupo de clientes
 
 ## ▶️ Como visualizar
-Abra o arquivo `.pbix` no Power BI Desktop ou visualize os prints disponíveis na pasta `imagens`.
+Abra o arquivo `segmentaçaoclientesmarketing.pbix` no Power BI Desktop ou visualize os prints disponíveis na pasta 
 
 ## 🖼 Captura de Tela
 ![Dashboard](Capturadetela2025-07-03114207.png)
