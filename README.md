@@ -1,0 +1,1 @@
+# segmenta-o-clientes-Power-BI
